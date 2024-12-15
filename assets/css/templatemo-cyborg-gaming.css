@@ -309,6 +309,7 @@ Pre-loader Style
   transform: translateX(0);
   -webkit-animation: dot 2.8s infinite;
   animation: dot 2.8s infinite;
+  color: #1a5015;
 }
 
 .preloader-inner .dots {
